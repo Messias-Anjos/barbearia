@@ -46,3 +46,6 @@ body{
 #botao:hover{
     background-color: red;
 }
+header{
+    background-image: url(../);
+}
