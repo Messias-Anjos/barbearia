@@ -95,3 +95,11 @@ section h2{
 .img3{
     width: 100%;
 }
+.whats{
+    width: 70px;
+    height: 70px;
+    position: fixed;
+    bottom: 18px;
+    right: 3px;
+    
+}
