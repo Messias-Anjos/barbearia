@@ -13,15 +13,19 @@
     }
     header{
         width: auto;
-        background: url(../img/fundo1.jpg) no-repeat center center;
-        height: 600px;
-        padding-left: 50px;
-        padding-top: 200px;
+        background: url(../img/fundo2.png) no-repeat center center;
+        height: 240px;
+        padding-left: 30px;
+        padding-top: 50px;
     }
     header h2{
-        font-size: 40px;
+        font-size: 15px;
     }
     header p{
-        font-size: 20px;
+        font-size: 10px;
+    }
+    header a{
+        padding: 10px;
+        font-size: 10px;
     }
 }
