@@ -1,4 +1,4 @@
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 375px) {
     body{
         width: 100%;
     }
@@ -27,5 +27,36 @@
     header a{
         padding: 10px;
         font-size: 10px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    body{
+        width: 100%;
+    }
+    .menu{
+        display: none;
+    }
+    .logo{
+        text-align: center;
+    }
+    .logo h1{
+        padding-left: 0;
+    }
+    header{
+        background: url(../img/fundo3.png) no-repeat center center;
+        padding-top: 50px;
+        height: 512px;
+        padding-left: 40px;
+        padding-top: 150px;
+    }
+    header h2{
+        font-size: 35px;
+    }
+    header p{
+        font-size: 20px;
+    }
+    header a{
+        padding: 20px;
+        font-size: 15px;
     }
 }
