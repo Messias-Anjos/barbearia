@@ -103,3 +103,11 @@ section h2{
     right: 3px;
     
 }
+.fundo{
+    height: 200px;
+    background-color: black;
+    text-align: center;
+}
+.fundo h3{
+    color: #B8860b;
+}
