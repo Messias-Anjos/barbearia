@@ -14,6 +14,9 @@
     header{
         width: auto;
         background: url(../img/fundo1.jpg) no-repeat center center;
+        height: 600px;
+        padding-left: 100px;
+        padding-top: 200px;
     }
     header h2{
         font-size: 40px;
