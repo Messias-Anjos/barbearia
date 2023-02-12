@@ -97,5 +97,8 @@
         padding: 10px;
         font-size: 8px;
     }
+    .amaior:hover{
+        background-color: none;
+    }
 
 } 
