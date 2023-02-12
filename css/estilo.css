@@ -65,6 +65,8 @@ body{
     font-size: 65px;
     font-weight: bold;
     text-transform: uppercase;
+    overflow: hidden;
+    white-space: nowrap;
 }
 .pmaior{
     position: absolute;
@@ -92,6 +94,17 @@ body{
 }
 .cor2{
     color: #b8870bc8;
+}
+@keyframes h2centro{
+    from{
+        width: 0;
+    }
+    to{
+        width: 16em;
+    }
+}
+.novo123{
+    animation: h2centro 5s steps(40) 1s normal both infinite;
 }
 section{
     margin: 20px;
