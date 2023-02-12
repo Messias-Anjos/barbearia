@@ -75,25 +75,25 @@
     }
     .h2maior{
         position: absolute;
-        top: 120px;
-        left: 30px;
+        top: 140px;
+        left: 15px;
         color: white;
-        font-size: 25px;
+        font-size: 20px;
         font-weight: bold;
         text-transform: uppercase;
     }
     .pmaior{
         position: absolute;
-        top: 170px;
-        left: 30px;
+        top: 180px;
+        left: 15px;
         color: white;
-        letter-spacing: 10px;
+        letter-spacing: 8px;
         font-size: 10px;
     }
     .amaior{
         position: absolute;
-        top: 220px;
-        left: 30px;
+        top: 230px;
+        left: 15px;
         padding: 10px;
         font-size: 8px;
     }
