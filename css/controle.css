@@ -1,34 +1,4 @@
-@media only screen and (max-width: 375px) {
-    body{
-        width: 100%;
-    }
-    .menu{
-        display: none;
-    }
-    .logo{
-        text-align: center;
-    }
-    .logo h1{
-        padding-left: 0;
-    }
-    header{
-        width: auto;
-        background: url(../img/fundo2.png) no-repeat center center;
-        height: auto;
-        padding-left: 30px;
-        padding-top: 0px;
-    }
-    header h2{
-        font-size: 15px;
-    }
-    header p{
-        font-size: 10px;
-    }
-    header a{
-        padding: 10px;
-        font-size: 10px;
-    }
-}
+
 @media only screen and (max-width: 800px) {
     body{
         width: 100%;

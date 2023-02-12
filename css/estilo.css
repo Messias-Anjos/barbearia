@@ -90,12 +90,15 @@ section h2{
 }
 .img1{
     width: 100%;
+    box-shadow: 5px 5px 12px black;
 }
 .img2{
     width: 100%;
+    box-shadow: 5px 5px 12px black;
 }
 .img3{
     width: 100%;
+    box-shadow: 5px 5px 12px black;
 }
 .whats{
     width: 70px;
@@ -107,7 +110,7 @@ section h2{
 }
 footer{
     height: 400px;
-    background-image: linear-gradient(180deg,rgba(30, 30, 30, 0.819),rgba(30, 30, 30, 0.932),rgb(21, 21, 21),rgb(0, 0, 0));
+    background-image: linear-gradient(180deg,rgba(30, 30, 30, 0.729) 0%,rgb(0, 0, 0) 100%);
     text-align: left;
     width: 98%;
     margin-left: 17px;
