@@ -88,5 +88,8 @@
         background-color: #B8860b;
         box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.669);
     }
+    .fundo h3{
+        font-size: 13px;
+    }
 
 } 
