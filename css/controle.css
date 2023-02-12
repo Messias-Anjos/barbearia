@@ -44,22 +44,9 @@
         padding: 10px;
         font-size: 12px;
     }
-    jheader{
-        background: url(../img/fundo3.png) no-repeat center center;
-        padding-top: 50px;
-        height: 512px;
-        padding-left: 20px;
-        padding-top: 100px;
-    }
-    jheader h2{
-        font-size: 35px;
-    }
-    jheader p{
-        font-size: 20px;
-    }
-    jheader a{
-        padding: 20px;
-        font-size: 15px;
+    .amaior:hover{
+        background-color: #B8860b;
+        box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.669);
     }
     .whats{
         width: 50px;
@@ -98,7 +85,8 @@
         font-size: 8px;
     }
     .amaior:hover{
-        display: none;
+        background-color: #B8860b;
+        box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.669);
     }
 
 } 
