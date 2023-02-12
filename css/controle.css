@@ -35,4 +35,15 @@
         bottom: 12px;
         right: 6px;
     }
+    footer{
+        height: 250px;
+        width: 100%;
+        margin-left: 0;
+    }
+    .h3c{
+        padding-top: 25px;
+    }
+    .fundo h3{
+        padding-top: 10px;
+    }
 }
